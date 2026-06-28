@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kein 👋</h1>
 
 <p align="center">
-  <b>AI Engineer</b> — building production LLM platforms for healthcare.<br/>
+  <b>AI Engineer</b>
   Deep Learning · Large Language Models · RAG · Computer Vision
 </p>
 
