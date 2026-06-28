@@ -48,19 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=4arkeinlvy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4arkeinlvy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4arkeinlvy&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
----
-
 ### 📫 Reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/4arkeinlvy)
