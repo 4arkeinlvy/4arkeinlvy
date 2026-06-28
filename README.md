@@ -41,22 +41,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-| --- | --- |
-| 🧩 [**KeinFLux**](https://github.com/4arkeinlvy/KeinFLux) | Python package that generates natural-language captions from images using deep learning. |
-| 📚 [**Cariin**](https://github.com/4arkeinlvy/Cariin) | LLM-powered English book recommendation system. |
-| 🤖 [**LLM**](https://github.com/4arkeinlvy/LLM) | Hands-on study & implementations of Large Language Models. |
-| 🔗 [**LangChain**](https://github.com/4arkeinlvy/Langchain) | Building applications on top of LLMs with the LangChain framework. |
-| 📝 [**Machine-Learning-Paper**](https://github.com/4arkeinlvy/Machine-Learning-Paper) | Implementing ML/DL papers from scratch in code. |
-| 🎨 [**Indonesian-Batik-Classification**](https://github.com/4arkeinlvy/Indonesian-Batik-Classification) | Custom CNN + DenseNet121 transfer learning for batik image classification. |
 
 ---
 
