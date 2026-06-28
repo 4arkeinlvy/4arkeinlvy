@@ -13,7 +13,7 @@
 
 ### 🚀 About me
 
-- 🧠 I work as an **AI Engineer**, building and shipping **LLM-powered platforms ** — retrieval-augmented generation, agents, and model evaluation pipelines.
+- 🧠 I work as an **AI Engineer**, building and shipping **LLM-powered platforms** — retrieval-augmented generation, agents, and model evaluation pipelines.
 - 🔬 Background in **deep learning & ML research** — CNNs, RNN/LSTM forecasting, transfer learning, and NLP.
 - 📦 I like turning research into usable software — e.g. packaging models into installable Python tools.
 - 🌏 Based in Jakarta, Indonesia.
