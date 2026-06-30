@@ -16,7 +16,7 @@
 - 🧠 I work as an **AI Engineer**, building and shipping **LLM-powered platforms** — retrieval-augmented generation, agents, and model evaluation pipelines.
 - 🔬 Background in **deep learning & ML research** — CNNs, RNN/LSTM forecasting, transfer learning, and NLP.
 - ⚙️ Comfortable across the stack & **MLOps** — containerized services on **Kubernetes**, **Jenkins** CI/CD, and **RabbitMQ** message queues.
-- 📦 I like turning research into usable software — e.g. packaging models into installable Python tools.
+- 📦 I like turning research into usable software 
 - 🌏 Based in Jakarta, Indonesia.
 
 ---
