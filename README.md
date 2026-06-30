@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kein 👋</h1>
+<h1 align="center">Hi👋</h1>
 
 <p align="center">
   <b>AI Engineer</b>
