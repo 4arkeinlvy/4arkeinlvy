@@ -1,4 +1,3 @@
-<h1 align="center">Hi👋</h1>
 
 <p align="center">
   <b>AI Engineer</b>
@@ -13,9 +12,7 @@
 
 ### 🚀 About me
 
-- 🧠 I work as an **AI Engineer**, building and shipping **LLM-powered platforms** — retrieval-augmented generation, agents, and model evaluation pipelines.
-- 🔬 Background in **deep learning & ML research** — CNNs, RNN/LSTM forecasting, transfer learning, and NLP.
-- ⚙️ Comfortable across the stack & **MLOps** — containerized services on **Kubernetes**, **Jenkins** CI/CD, and **RabbitMQ** message queues.
+- 🧠 I work as an **AI Engineer**
 - 📦 I like turning research into usable software 
 - 🌏 Based in Jakarta, Indonesia.
 
